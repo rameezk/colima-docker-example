@@ -1,3 +1,3 @@
 FROM ubuntu
 
-RUN apt-get update && apt-get install cowsay
+RUN apt-get update && apt-get install -y cowsay
