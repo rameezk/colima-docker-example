@@ -1,6 +1,6 @@
 # colima-docker-example
 
-> An high level example of using [Colima](https://github.com/abiosoft/colima) as a Docker Desktop replacement
+> An high level example of using [Colima](https://github.com/abiosoft/colima) as a Docker Desktop replacement. See related [blog post](https://rameezkhan.me/posts/2022/2022-10-28--colima-as-a-docker-desktop-replacement/).
 
 ## Disclaimer
 This was tested on an M1 MacBook Pro using the Nix package manager.
